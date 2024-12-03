@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: MYVAHAN - All
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.adobe.myvahan:myvahan.all:0.0.1-SNAPSHOT
+Content-Package-Description: All content package for MYVAHAN
+Content-Package-Roots: /apps/myvahan-packages,/apps/myvahan-vendor-packa
+ ges
+

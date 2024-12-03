@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>MYVAHAN - UI apps</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="dependencies-locations">adobe/cq60:core.wcm.components.content:2.19.0=maven:com.adobe.cq:core.wcm.components.content:2.19.0:zip,adobe/cq60:core.wcm.components.config:2.19.0=maven:com.adobe.cq:core.wcm.components.config:2.19.0:zip</entry>
+<entry key="created">2024-12-03T07:18:14.294Z</entry>
+<entry key="groupId">com.adobe.myvahan</entry>
+<entry key="description">UI apps package for MYVAHAN</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">application</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">adobe/cq60:core.wcm.components.content:2.19.0,adobe/cq60:core.wcm.components.config:2.19.0</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">myvahan.ui.apps</entry>
+<entry key="artifactId">myvahan.ui.apps</entry>
+<entry key="group">com.adobe.myvahan</entry>
+</properties>

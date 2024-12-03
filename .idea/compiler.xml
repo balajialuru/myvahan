@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myvahan.it.tests" />
+        <module name="myvahan.all" />
+        <module name="myvahan.ui.apps" />
+        <module name="myvahan.core" />
+        <module name="myvahan.ui.apps.structure" />
+        <module name="myvahan.ui.content" />
+        <module name="myvahan.ui.config" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

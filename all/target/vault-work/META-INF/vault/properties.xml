@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>MYVAHAN - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2024-12-03T07:18:18.862Z</entry>
+<entry key="groupId">com.adobe.myvahan</entry>
+<entry key="name">myvahan.all</entry>
+<entry key="description">All content package for MYVAHAN</entry>
+<entry key="artifactId">myvahan.all</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.myvahan</entry>
+</properties>

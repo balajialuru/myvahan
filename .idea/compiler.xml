@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="myvahan.it.tests" />
+        <module name="myvahan.ui.tests" />
         <module name="myvahan.all" />
         <module name="myvahan.ui.apps" />
         <module name="myvahan.core" />

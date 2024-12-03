@@ -1,6 +1,6 @@
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/test/java/com/adobe/myvahan/core/models/HelloWorldModelTest.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/test/java/com/adobe/myvahan/core/filters/LoggingFilterTest.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/test/java/com/adobe/myvahan/core/testcontext/AppAemContext.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/test/java/com/adobe/myvahan/core/servlets/SimpleServletTest.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/test/java/com/adobe/myvahan/core/listeners/SimpleResourceListenerTest.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/test/java/com/adobe/myvahan/core/schedulers/SimpleScheduledTaskTest.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/test/java/com/adobe/myvahan/core/servlets/SimpleServletTest.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/test/java/com/adobe/myvahan/core/filters/LoggingFilterTest.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/test/java/com/adobe/myvahan/core/testcontext/AppAemContext.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/test/java/com/adobe/myvahan/core/models/HelloWorldModelTest.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/test/java/com/adobe/myvahan/core/schedulers/SimpleScheduledTaskTest.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/test/java/com/adobe/myvahan/core/listeners/SimpleResourceListenerTest.java

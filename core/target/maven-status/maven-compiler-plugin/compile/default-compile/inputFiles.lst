@@ -1,10 +1,10 @@
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/models/package-info.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/listeners/package-info.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/servlets/SimpleServlet.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/schedulers/SimpleScheduledTask.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/schedulers/package-info.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/servlets/package-info.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/listeners/SimpleResourceListener.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/filters/package-info.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/models/HelloWorldModel.java
-/Users/ba20468095/Documents/UAT Deployment/testProject/myvahan/core/src/main/java/com/adobe/myvahan/core/filters/LoggingFilter.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/filters/package-info.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/servlets/SimpleServlet.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/schedulers/package-info.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/schedulers/SimpleScheduledTask.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/filters/LoggingFilter.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/listeners/package-info.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/models/package-info.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/listeners/SimpleResourceListener.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/models/HelloWorldModel.java
+/Users/ba20468095/Documents/TESTLOCAL/myvahan/core/src/main/java/com/adobe/myvahan/core/servlets/package-info.java

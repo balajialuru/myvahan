@@ -4,7 +4,7 @@
 <comment>MYVAHAN - Repository Structure Package</comment>
 <entry key="cloudManagerTarget">none</entry>
 <entry key="allowIndexDefinitions">false</entry>
-<entry key="created">2024-12-03T07:18:07.864Z</entry>
+<entry key="created">2024-12-03T11:10:09.966Z</entry>
 <entry key="groupId">com.adobe.myvahan</entry>
 <entry key="name">myvahan.ui.apps.structure</entry>
 <entry key="description">Empty package that defines the structure of the Adobe Experience Manager repository the Code packages in this project deploy into.

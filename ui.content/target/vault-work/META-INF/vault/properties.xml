@@ -5,7 +5,7 @@
 <entry key="allowIndexDefinitions">false</entry>
 <entry key="acHandling">merge</entry>
 <entry key="dependencies-locations">com.adobe.myvahan:myvahan.ui.apps:0.0.1-SNAPSHOT=maven:com.adobe.myvahan:myvahan.ui.apps:0.0.1-SNAPSHOT:zip</entry>
-<entry key="created">2024-12-03T07:18:17.889Z</entry>
+<entry key="created">2024-12-03T11:10:21.884Z</entry>
 <entry key="groupId">com.adobe.myvahan</entry>
 <entry key="description">UI content package for MYVAHAN</entry>
 <entry key="version">0.0.1-SNAPSHOT</entry>

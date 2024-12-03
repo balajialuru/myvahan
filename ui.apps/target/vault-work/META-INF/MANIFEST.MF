@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: MYVAHAN - UI apps
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.adobe.myvahan:myvahan.ui.apps:0.0.1-SNAPSHOT
+Content-Package-Description: UI apps package for MYVAHAN
+Content-Package-Dependencies: adobe/cq60:core.wcm.components.content:2.1
+ 9.0,adobe/cq60:core.wcm.components.config:2.19.0
+Content-Package-Dependencies-Locations: adobe/cq60:core.wcm.components.c
+ ontent:2.19.0=maven:com.adobe.cq:core.wcm.components.content:2.19.0:zip
+ ,adobe/cq60:core.wcm.components.config:2.19.0=maven:com.adobe.cq:core.w
+ cm.components.config:2.19.0:zip
+Content-Package-Roots: /apps/myvahan/clientlibs,/apps/myvahan/components
+ ,/apps/myvahan/i18n
+Import-Package: com.adobe.myvahan.core.models;version="[1.0.0,2.0.0)",or
+ g.apache.sling.scripting.sightly;version="[2.0.0,3.0.0)"
+

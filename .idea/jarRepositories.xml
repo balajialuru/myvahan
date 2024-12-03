@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="apple-libs-snapshot-repo" />
+      <option name="name" value="Apple Libs Snapshot Repo" />
+      <option name="url" value="https://artifacts.apple.com/libs-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central-repo" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-groups-public" />
+      <option name="name" value="adobe-groups-public" />
+      <option name="url" value="https://repo.adobe.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-public-releases" />
+      <option name="name" value="Adobe Public Repository" />
+      <option name="url" value="https://repo.adobe.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apple-libs-release-repo" />
+      <option name="name" value="Apple Libs Release Repo" />
+      <option name="url" value="https://artifacts.apple.com/libs-release/" />
+    </remote-repository>
+  </component>
+</project>
